@@ -87,3 +87,41 @@ img{
 #new-game:hover{
     opacity:0.5;
 }
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5rem;
+        height: 3.5rem;
+        line-height: 3.5rem;
+    }
+    .choices {
+        gap: 1rem;
+        margin: 2rem 0.5rem;
+    }
+    .choice {
+        width: 32vw;
+        height: 32vw;
+        max-width: 110px;
+        max-height: 110px;
+        min-width: 60px;
+        min-height: 60px;
+    }
+    .score-board {
+        gap: 1rem;
+        font-size: 1rem;
+        margin: 1rem 0.5rem;
+    }
+    #user-score, #comp-score {
+        font-size: 1.5rem;
+    }
+    #msg {
+        font-size: 1rem;
+        padding: 0.7rem 1rem;
+    }
+    #new-game {
+        padding: 8px 16px;
+        font-size: 1rem;
+        bottom: 8px;
+        right: 8px;
+    }
+}
