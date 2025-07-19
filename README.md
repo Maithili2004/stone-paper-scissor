@@ -2,6 +2,9 @@
 
 A simple and fun Rock-Paper-Scissors game built using **HTML, CSS, and JavaScript**. Challenge the computer, test your luck, and enjoy the game!
 
+🔗 **Live Demo:** [Click here to play the game!](https://maithili2004.github.io/stone-paper-scissor/)
+
+
 ![Game Screenshot](images/gamepage.png)
 
 ## 🚀 Features
