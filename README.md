@@ -1,42 +1,58 @@
-# 🎮 Rock Paper Scissors Game
+# 🎮 JavaScript Projects – Rock Paper Scissors & Currency Converter
 
-A simple and fun Rock-Paper-Scissors game built using **HTML, CSS, and JavaScript**. Challenge the computer, test your luck, and enjoy the game!
+Learning-by-building! These are fun and practical JavaScript projects I created while learning **DOM manipulation**, **game logic**, and **API integration**.
 
-🔗 **Live Demo:** [Click here to play the game!](https://maithili2004.github.io/stone-paper-scissor/)
+---
 
+## ✊ Rock Paper Scissors Game
 
-![Game Screenshot](images/gamepage.png)
+A simple and interactive Rock-Paper-Scissors game built using **HTML, CSS, and JavaScript**. Challenge the computer and test your luck!
 
-## 🚀 Features
+🔗 **Live Demo:** [Play the Game](https://maithili2004.github.io/stone-paper-scissor/)
 
-- ✊ ✋ ✌️ Choose between Rock, Paper, or Scissors.
-- 💻 Computer randomly selects its move.
-- 🧠 Game logic determines round winner.
-- 📊 Scores are updated live for both User and Computer.
-- 🔁 “Start a new Game” resets the game easily.
+![Rock Paper Scissors Screenshot](images/gamepage.png)
 
-## 🛠️ Tech Stack
+### 🚀 Features
+- Choose between Rock, Paper, or Scissors
+- Computer randomly selects its move
+- Winner decided based on rules
+- Live score tracking
+- “Start a new Game” resets the match
 
-- **HTML5** – For page structure
-- **CSS3** – For styling and layout
-- **Vanilla JavaScript** – For interactivity and game logic
+---
+
+## 💱 Currency Converter
+
+A responsive **currency converter** that uses **real-time exchange rates** via API fetch. Enter the amount, choose currencies, and get instant results.
+
+🔗 **Live Demo:** [Try the Converter](https://maithili2004.github.io/stone-paper-scissor/currency_convertor/)
+
+![Currency Converter Screenshot](images/currency_convertorpage.png)
+![Currency convertor for more countries](images/convertorpages.jpg)
+
+### 🌐 Features
+- Converts between multiple global currencies
+- Fetches real-time data from an API
+- Fully responsive layout
+- Simple and user-friendly UI
+
+---
+
+## 🛠️ Tech Stack (Both Projects)
+
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Game logic & API handling  
+- **Fetch API** – For real-time currency data
+
+---
 
 ## 📁 How to Run Locally
 
-1. Clone the repository or download the ZIP.
-2. Open `index.html` in your browser.
-3. Start playing and have fun!
-
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
-open index.html  # Or double-click to open in browser
-
-## 🎯 Game Rules
-
-- Rock beats Scissors
-- Scissors beats Paper
-- Paper beats Rock
+git clone https://github.com/Maithili2004/stone-paper-scissor.git
+cd stone-paper-scissor
+# Open index.html in the root folder or currency_convertor/index.html in browser
 
 ---
 
